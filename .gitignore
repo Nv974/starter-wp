@@ -6,6 +6,12 @@ package-lock.json
 yarn.lock
 .htaccess
 wp
-wp-content
 vendor
 wp-config.php
+
+wp-content/*
+
+!wp-content
+wp-content/themes/*
+!wp-content/themes
+!wp-content/themes/nv974
