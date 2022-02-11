@@ -1,0 +1,3 @@
+// mettre les bonnes infos
+
+wp core install --url="http://localhost/Wordpress/template/public" --title="oprofile" --admin_user="root" --admin_password="root" --admin_email="" --skip-email;

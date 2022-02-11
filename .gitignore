@@ -1,0 +1,11 @@
+.parcel-cache
+.cache
+dist
+node_modules
+package-lock.json
+yarn.lock
+.htaccess
+wp
+wp-content
+vendor
+wp-config.php
