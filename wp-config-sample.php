@@ -22,13 +22,13 @@
 /** The name of the database for WordPress */
 //TODO => entrer les bonnes infos de la bdd
 
-define( 'DB_NAME', 'oprofile' );
+define( 'DB_NAME', 'db_name' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'db_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'db_pwd' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1' );
